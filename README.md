@@ -10,7 +10,7 @@ A native macOS app that turns MIDI piano notes into keyboard input for Roblox pi
 2. Unzip it and move **MITR.app** to a permanent location, such as Applications. Keep the other files if you want the source and demo songs.
 3. Open MITR. This release is ad-hoc signed and is **not notarized**. If macOS blocks opening it, review the app/source and use **System Settings → Privacy & Security → Open Anyway** for this app if you choose to trust it. Do not disable Gatekeeper globally.
 4. In **System Settings → Privacy & Security → Accessibility**, add and enable **MITR.app**. This is required to generate piano keystrokes. Relaunch MITR if needed.
-5. Open the installed Roblox client, join a piano experience, sit at the piano, and close chat. Use the Mac **ABC / US** keyboard layout.
+5. Open the installed Roblox client and use the keyboard.
 
 No Python, package manager, extra libraries, or account is needed by MITR. A MIDI keyboard is optional for file playback. This prebuilt release supports Apple silicon; an Intel build is not provided.
 
