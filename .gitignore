@@ -1,0 +1,18 @@
+# Generated app and distribution archives
+MITR.app/
+*.zip
+*.dmg
+
+# macOS and editor files
+.DS_Store
+._*
+__MACOSX/
+.vscode/
+.idea/
+
+# Build caches
+.build/
+DerivedData/
+*.swiftdoc
+*.swiftmodule
+*.swiftsourceinfo
